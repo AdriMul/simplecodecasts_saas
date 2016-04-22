@@ -1,7 +1,7 @@
 class UsersController < ApplicationController
     before_action :authenticate_user!
     
-    def index_users_on_email
+    def index
         
     end
     
