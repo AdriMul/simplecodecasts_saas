@@ -1,3 +1,8 @@
+.user-show-avatar {
+    height: 128 px;
+    width: 128 px;
+}
+
 .job_title_icon {
     display: inline-block;
     width: 30px;
@@ -29,4 +34,8 @@
 img {
     border-radius: 50%;
     border: solid 4px black;
+}
+
+.well.white-bg {
+    background-color: #fff;
 }
